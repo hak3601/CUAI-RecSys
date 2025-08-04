@@ -1,2 +1,2 @@
 # CUAI-RecSys
-This is a summer project related to recommender systems at CUAI.
+This is a team project related to recommender systems at CUAI Summer Conference.
